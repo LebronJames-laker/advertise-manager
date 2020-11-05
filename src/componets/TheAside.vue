@@ -41,12 +41,12 @@ export default {
                 {
                     icon:'el-icon-document',
                     index: 'Singer',
-                    title: '歌手管理'
+                    title: '预约管理'
                 },
                 {
                     icon:'el-icon-document',
                     index: 'Song',
-                    title: '歌单管理'
+                    title: '企业资料管理'
                 }
             ]
         }

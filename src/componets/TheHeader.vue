@@ -4,7 +4,7 @@
         <div class="collapse-btn" @click="collapseChange">
             <i class="el-icon-menu"></i>
         </div>
-        <div class="logo">music 音乐后台管理</div>
+        <div class="logo">后台管理</div>
         <div class="header-right">
             <div class="btn-fullscreen" @click="handleFullScreen">
                 <el-tooltip :content="fullscreen?`取消全屏`:`全屏`" placement="bottom">
